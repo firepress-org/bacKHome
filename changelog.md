@@ -1,7 +1,8 @@
 # changelog.md
 
-### version to come
-- tk
+### 0.2
+- compressing CSS and JS files
+- mv out DIR header-demo
 
 ### 0.11 16-08-22_00h02
 - less top space on view 1
