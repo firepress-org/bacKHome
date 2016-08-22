@@ -191,7 +191,7 @@ input, select {
 
 .ctn-splash {
   display: block;
-  margin-top: -200px;
+  margin-top: -250px;
   text-align: left;
 }
 
@@ -234,7 +234,7 @@ input, select {
 }
 
 .cta {
-  padding-top: 50px;
+  padding-top: 40px;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -315,8 +315,21 @@ input, select {
 .footer-splash {
   display: block;
   width: auto;
-  padding-top: 17px;
+  padding-top: 30px;
   padding-bottom: 30px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
   text-align: center;
 }
 
@@ -455,7 +468,7 @@ html.w-mod-js *[data-ix="fade-in-on-load"] {
     line-height: 1em;
   }
   .section-banner {
-    height: 220px;
+    height: 200px;
   }
   .main-text {
     padding-top: 20px;

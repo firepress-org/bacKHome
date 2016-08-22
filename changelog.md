@@ -3,11 +3,14 @@
 ### version to come
 - tk
 
-### version to come
-- tk
+### 0.11 16-08-22_00h02
+- less top space on view 1
+- add new page no-img.html where there is no image within the content
+- more space before FirePress logo
 
 ### 0.10 2016-08-19_00h48
 - init from scratch
+
 
 ---
 
