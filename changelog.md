@@ -1,6 +1,9 @@
 # changelog.md
 
-### 0.2
+### 0.21 16-08-25_19h39m14
+- major 
+
+### 0.2 16-08-19
 - compressing CSS and JS files
 - mv out DIR header-demo
 
@@ -11,7 +14,6 @@
 
 ### 0.10 2016-08-19_00h48
 - init from scratch
-
 
 ---
 
